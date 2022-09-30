@@ -1,0 +1,15 @@
+
+    div {
+        background-color:lightblue;
+        box-sizing: border-box;
+        width: 100%;
+        float: left;
+        align-content: center;
+        align-items: center;
+    }
+
+    form {
+        background-color:whitesmoke;
+        margin:0 auto;
+        width: 600px;
+    }
